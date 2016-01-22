@@ -1,2 +1,3 @@
 shopping
 add 2 item
+Ex2 done from bash
