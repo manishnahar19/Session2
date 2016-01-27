@@ -7,3 +7,6 @@ Chnages done by Diaspark User 9826973070 9826386997 9826957997
 
 Changes done by gamil user
 
+
+License to Diaspark Inc
+
