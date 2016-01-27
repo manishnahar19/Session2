@@ -1,7 +1,7 @@
 shopping
 add 2 item
 Mobile number 9826973070
-<<<<<<< HEAD
+
 
 Mobile Number 9826957997
 
@@ -11,10 +11,9 @@ Mobile Number 9826957997
 
 
 
-=======
-Mobile Number 9826957997
 
->>>>>>> 9a27b949a761cb1e067c54f234062cb0dd6ebef8
+
+
 Third mobile number 9826386997
 Added some fixes in loginmodule
 
